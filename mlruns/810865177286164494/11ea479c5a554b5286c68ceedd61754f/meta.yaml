@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MaxSt/PycharmProjects/Diploma/HumanverifyTrainModel/mlruns/810865177286164494/11ea479c5a554b5286c68ceedd61754f/artifacts
+end_time: 1684488731643
+entry_point_name: ''
+experiment_id: '810865177286164494'
+lifecycle_stage: active
+run_id: 11ea479c5a554b5286c68ceedd61754f
+run_name: puzzled-seal-438
+run_uuid: 11ea479c5a554b5286c68ceedd61754f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684484457154
+status: 3
+tags: []
+user_id: MaxSt

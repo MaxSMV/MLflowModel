@@ -1,0 +1,19 @@
+artifact_path: emotion_detection_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.3
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.12.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.3.2
+model_uuid: 58d76d2bb32f4f09a3286e32152bb763
+run_id: 11ea479c5a554b5286c68ceedd61754f
+utc_time_created: '2023-05-19 09:32:02.021337'
